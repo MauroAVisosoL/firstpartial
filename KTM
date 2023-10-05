@@ -1,0 +1,13 @@
+#STEP1
+def KTM():
+  def convert(k):
+    x = k * 1000
+    return x
+  
+  print("Tell me how many kilometers have you traveled:")
+  a = int(input())
+  print ("You've traveled:", convert(a),"meters.")
+  
+
+#STEP2
+KTM()
