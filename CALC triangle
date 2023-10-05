@@ -1,0 +1,13 @@
+#STEP1
+def CALC():
+  def calc(b,h):
+    x = (b * h) / 2
+    return x
+  
+  print("Tell me the base of your triangle in cm:")
+  b = int(input())
+  print("Now, tell me the height of your triangle in cm:")
+  h = int(input())
+  print ("The area of your triangle is:", calc(b,h),"squared cm.")
+#STEP2
+CALC()
