@@ -1,2 +1,2 @@
-# firstpartial
-First Partial
+# thirdsemester
+Third Semester
