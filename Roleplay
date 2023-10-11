@@ -56,3 +56,5 @@ def GAME():
   print("You have reached the end of this RPG, count your points and play again!")
 #STEP2
 GAME()
+
+#END
